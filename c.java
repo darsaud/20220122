@@ -1,4 +1,3 @@
 void main () {
-	println "Hello from C"
-I enjoy this class and i think i will do go
+	println "Hello from c"
 }
