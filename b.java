@@ -4,6 +4,6 @@ void main () {
 }
 
 int getTime () {
-	return "8 am"
+	
 
 }
